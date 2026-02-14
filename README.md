@@ -1,0 +1,60 @@
+# eill – BAE
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+世界の端っこでうたってる
+どうも冴えない Ugly girl?
+ヘッドフォンから流れる Indie playlist!
+私達よく似てる
+価値観のチューニングは432hz
+ふたりの日々は破茶滅茶ガラクタ箱
+But you are special to me
+And you are right in the middle
+ずっとずっと待ってた
+唯一の理解者
+不安と思考がゆらゆら
+頭ん中 Running …
+君もそうでしょ?
+I know maybe, this is love
+君と不思議なデート
+至って普通じゃなく
+I'm so good baby
+ふたりだけのテンポで
+ビルの隙間で踊って
+真昼は真夜中で
+It's all good baby
+十中八九 奇抜な心
+傷つきたくなくて 真っ黒い鎧 Put on
+生まれてから Maybe outsider
+気がつく他人のネガティブワード
+痛みも感じず向ける言葉は歌わない
+SNS開けば誰がどうだこうだばっか
+I'm out! どうでもいいや、そんなもん
+それよりも、会いたいな。
+ずっとずっと待ってた
+運命の人ってやつ
+期待と未来がゆらゆら
+頭ん中 Running …
+君もそうでしょ?
+Hold on, tell me this is love
+気づいて 特別なこと
+名作家が描いた一番星のように Shining
+ふたりだけの魔法で
+Tシャツは裏返しで
+真昼は真夜中で
+It's all good baby
+Whole world is turning into blue and I'm dancing
+in the moon
+You say its a strange but it feels good
+Let it go!
+Come back for the saddest side!
+I know maybe, this is love
+君と不思議なデート
+至って普通じゃなく
+I'm so good baby
+ふたりだけのテンポで
+ビルの隙間で踊って
+真昼は真夜中で
+It's all good baby
+```
