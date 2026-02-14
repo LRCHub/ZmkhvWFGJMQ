@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "BAE",
+  "base_artist": "eill",
+  "createdAt": "2026-02-14T16:55:10.379129Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Momma Always Told Me (Nancie Remix) [feat. Stanaj & Yung Bae]",
+      "artist": "Mike Posner",
+      "has_synced": false,
+      "path": "select/01_Momma_Always_Told_Me_(Nancie_Remix)_[feat._Stanaj_&_Yung_Bae]_Mike_Posner.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bae City Rollaz",
+      "artist": "Yung Bae feat. Natvnomvzik",
+      "has_synced": true,
+      "path": "select/02_Bae_City_Rollaz_Yung_Bae_feat._Natvnomvzik.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bae City Rollaz (w\u0000ИΔΤVИ)",
+      "artist": "YUNG BAE",
+      "has_synced": true,
+      "path": "select/03_Bae_City_Rollaz_(w\u0000ИΔΤVИ)_YUNG_BAE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "葛城 ミサトYEBISU (YUNG BAE EDIT)",
+      "artist": "マクロスMACROSS 82-99",
+      "has_synced": true,
+      "path": "select/04_葛城_ミサトYEBISU_(YUNG_BAE_EDIT)_マクロスMACROSS_82-99.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "マクロスMACROSS 82-99 - 葛城 ミサトYEBISU (YUNG BAE EDIT)",
+      "artist": "YUNG BAE",
+      "has_synced": true,
+      "path": "select/05_マクロスMACROSS_82-99_-_葛城_ミサトYEBISU_(YUNG_BAE_EDIT)_YUNG_BAE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "B Bae B",
+      "artist": "Deaton Chris Anthony",
+      "has_synced": true,
+      "path": "select/06_B_Bae_B_Deaton_Chris_Anthony.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BAE",
+      "artist": "CLC",
+      "has_synced": false,
+      "path": "select/07_BAE_CLC.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Come Get It Bae",
+      "artist": "Pharrell Williams",
+      "has_synced": true,
+      "path": "select/08_Come_Get_It_Bae_Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jungle Bae",
+      "artist": "Jack Ü feat. Bunji Garlin",
+      "has_synced": true,
+      "path": "select/09_Jungle_Bae_Jack_Ü_feat._Bunji_Garlin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jungle Bae (feat. Bunji Garlin)",
+      "artist": "Jack Ü",
+      "has_synced": true,
+      "path": "select/10_Jungle_Bae_(feat._Bunji_Garlin)_Jack_Ü.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Montego Bae",
+      "artist": "Noname feat. Ravyn Lenae",
+      "has_synced": true,
+      "path": "select/11_Montego_Bae_Noname_feat._Ravyn_Lenae.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Montego Bae",
+      "artist": "NoName",
+      "has_synced": true,
+      "path": "select/12_Montego_Bae_NoName.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bae (From \"Don\")",
+      "artist": "Anirudh Ravichander feat. Adithya RK",
+      "has_synced": true,
+      "path": "select/13_Bae_(From__Don_)_Anirudh_Ravichander_feat._Adithya_RK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bae",
+      "artist": "Anirudh Ravichander",
+      "has_synced": true,
+      "path": "select/14_Bae_Anirudh_Ravichander.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bae - Original Mix",
+      "artist": "Laidback Luke feat. Gina Turner",
+      "has_synced": false,
+      "path": "select/15_Bae_-_Original_Mix_Laidback_Luke_feat._Gina_Turner.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bae - Original Mix",
+      "artist": "Laidback Luke/Gina Turner",
+      "has_synced": false,
+      "path": "select/16_Bae_-_Original_Mix_Laidback_Luke_Gina_Turner.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bae Goals",
+      "artist": "Megan Thee Stallion",
+      "has_synced": true,
+      "path": "select/17_Bae_Goals_Megan_Thee_Stallion.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BAE",
+      "artist": "eill",
+      "has_synced": false,
+      "path": "select/pl_01_BAE_eill.txt"
+    }
+  ]
+}
